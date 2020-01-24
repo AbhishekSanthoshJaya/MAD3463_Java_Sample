@@ -6,4 +6,4 @@
 
 Day 4
 
-# Date:Friday, 24th Janurary 2020 
+# Date:Friday, 24th January 2020 
