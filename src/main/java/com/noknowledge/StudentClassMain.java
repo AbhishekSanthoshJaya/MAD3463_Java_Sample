@@ -27,5 +27,8 @@ public class StudentClassMain {
         s2.calcPercentage();
         s2.calcResult();
         s2.printData();
+
+        Arithmetic arithmetic = new Arithmetic();
+        arithmetic.sum
     }
 }
